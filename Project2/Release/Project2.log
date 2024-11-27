@@ -1,0 +1,36 @@
+﻿  Animate.cpp
+  animation.cpp
+  Example09.cpp
+  Example10.cpp
+  FinalProject.cpp
+  projectfinal.cpp
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(154,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(258,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(459,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(516,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(546,32): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(546,32): warning C4244:         with
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(546,32): warning C4244:         [
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(546,32): warning C4244:             T=float
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(546,32): warning C4244:         ]
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(557,32): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(557,32): warning C4244:         with
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(557,32): warning C4244:         [
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(557,32): warning C4244:             T=float
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(557,32): warning C4244:         ]
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(562,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(562,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(636,31): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(658,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(658,40): warning C4244:         with
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(658,40): warning C4244:         [
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(658,40): warning C4244:             T=float
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(658,40): warning C4244:         ]
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\projectfinal.cpp(711,19): warning C4101: 'event2': unreferenced local variable
+  Source.cpp
+  testing.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 459 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project2.vcxproj -> C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Release\Project2.exe

@@ -1,0 +1,16 @@
+﻿  Example09.cpp
+  Source.cpp
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Source.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Source.cpp(54,66): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Source.cpp(54,66): warning C4244:         with
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Source.cpp(54,66): warning C4244:         [
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Source.cpp(54,66): warning C4244:             T=int
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Source.cpp(54,66): warning C4244:         ]
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Source.cpp(55,34): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Source.cpp(74,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Source.cpp(74,41): warning C4244:         with
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Source.cpp(74,41): warning C4244:         [
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Source.cpp(74,41): warning C4244:             T=unsigned int
+C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Source.cpp(74,41): warning C4244:         ]
+  Generating Code...
+LINK : fatal error LNK1168: cannot open C:\Users\divij\OneDrive\Desktop\SFML project\Project2\Debug\Project2.exe for writing
